@@ -1,0 +1,252 @@
+[
+    {
+        "id": 48,
+        "object": "ngc 1990",
+        "frequency": 0.22,
+        "coords": [
+            "83.7",
+            "-1.7"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "ic 430",
+            "ngc 2064",
+            "ic 426",
+            "ic 423",
+            "ngc 2067",
+            "lbn 962",
+            "ldn 1636",
+            "ldn 1635",
+            "lbn 950",
+            "lbn 946",
+            "lbn 944",
+            "lbn 965",
+            "lbn 967",
+            "lbn 940",
+            "lbn 963",
+            "ngc 1924",
+            "ngc 2071",
+            "lbn 924",
+            "lbn 935",
+            "lbn 925",
+            "lbn 927",
+            "ldn 1614",
+            "sh2-276"
+        ],
+        "hemisphere": "S",
+        "repr_name": "IC426"
+    },
+    {
+        "id": 56,
+        "object": "ic 4604",
+        "frequency": 0.21,
+        "coords": [
+            "246.5",
+            "-24.4"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "ic 4603",
+            "ic 4605",
+            "m 80",
+            "ngc 6144"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa Rho Ophiuchi y Antares"
+    },
+    {
+        "id": 61,
+        "object": "ngc 7039",
+        "frequency": 0.19,
+        "coords": [
+            "317.7",
+            "45.617"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "ic 5076",
+            "Barnard 349",
+            "Barnard 352",
+            "Barnard 350",
+            "Barnard 358",
+            "pk 084+01.1"
+        ],
+        "hemisphere": "N",
+        "repr_name": "NGC7039"
+    },
+    {
+        "id": 73,
+        "object": "ngc 6914",
+        "frequency": 0.16,
+        "coords": [
+            "306.3",
+            "42.3"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "ic 1311",
+            "sh2-105",
+            "Barnard 344",
+            "sh2-108",
+            "Barnard 343",
+            "pk 076+01.2",
+            "pk 077+02.1",
+            "pk 077+03.2",
+            "pk 076+01.1",
+            "Barnard 347",
+            "pk 077+03.1"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Sadr region"
+    },
+    {
+        "id": 83,
+        "object": "ic 447",
+        "frequency": 0.16,
+        "coords": [
+            "98.5",
+            "7.3"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "ic 448",
+            "ngc 2251"
+        ],
+        "hemisphere": "N",
+        "repr_name": "IC447"
+    },
+    {
+        "id": 84,
+        "object": "m 36",
+        "frequency": 0.13,
+        "coords": [
+            "84.075",
+            "34.14"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "ngc 1907"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Cumulo del molinillo"
+    },
+    {
+        "id": 88,
+        "object": "ic 353",
+        "frequency": 0.12,
+        "coords": [
+            "56.2",
+            "32.4"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nube o Per"
+    },
+    {
+        "id": 93,
+        "object": "ngc 957",
+        "frequency": 0.1,
+        "coords": [
+            "38.338",
+            "57.56"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "sh2-194",
+            "sh2-192",
+            "sh2-191",
+            "sh2-193",
+            "sh2-195",
+            "sh2-197",
+            "sh2-198",
+            "sh2-196",
+            "sh2-199",
+            "sh2-201"
+        ],
+        "hemisphere": "N",
+        "repr_name": "NGC957"
+    },
+    {
+        "id": 99,
+        "object": "m 24",
+        "frequency": 0.09,
+        "coords": [
+            "274.2",
+            "-18.55"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [
+            "m 18",
+            "ngc 6568",
+            "ic 4701"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nube estelar de Sagitario"
+    },
+    {
+        "id": 100,
+        "object": "m 35",
+        "frequency": 0.09,
+        "coords": [
+            "92.225",
+            "24.333"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Cumulo hebilla de zapato"
+    },
+    {
+        "id": 104,
+        "object": "ngc 6871",
+        "frequency": 0.08,
+        "coords": [
+            "301.496",
+            "35.777"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "NGC 6871"
+    },
+    {
+        "id": 105,
+        "object": "ngc 1909",
+        "frequency": 0.08,
+        "coords": [
+            "75.5",
+            "-7.9"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa cabeza de bruja"
+    },
+    {
+        "id": 106,
+        "object": "m 90",
+        "frequency": 0.08,
+        "coords": [
+            "189.207567",
+            "13.162869"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "M90"
+    },
+    {
+        "id": 108,
+        "object": "ic 354",
+        "frequency": 0.07,
+        "coords": [
+            "58.2",
+            "23"
+        ],
+        "fov": ">= 3.5 AND < 7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Pl\u00e9yades (campo amplio)"
+    }
+]

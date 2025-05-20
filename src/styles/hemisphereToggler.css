@@ -1,0 +1,134 @@
+.hemisphereTogglerTab {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  width: 32vw;
+  background-color: #0b041a;
+  height: 100%;
+  padding: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  transition: width 0.3s ease, background-color 0.3s ease;
+  scrollbar-width: none;
+}
+
+.hiddenToggler {
+  /* height: auto; */
+  width: 3em;
+  background-color: rgba(0, 0, 0, 0);
+  overflow: hidden;
+  cursor: default;
+}
+
+.titleSection {
+  display: flex;
+  height: 3em;
+}
+
+.titleSection h1, h3 {
+  margin: 0;
+}
+
+#togglerButton {
+  width: 2.5em;
+  height: 2.5em;
+  transition: transform .3s ease;
+  border-radius: 100vw;
+  border-width: 0px;
+  background-color: #cbb3ff;
+}
+
+#togglerButton:hover {
+  background-color: #aa88f5;
+}
+
+#togglerButton.rotated {
+  transform: rotate(180deg);
+}
+
+#togglerButton svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* TÍTULO SUPERIOR */
+#pageTitleContainer {
+  /* width: 100%; */
+  /* height: 120px; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  transition: opacity 0.3s ease, width 0.3s ease, flex 0.3s ease;
+  /* justify-content: center; */
+  /* padding: 10px; */
+}
+
+#pageTextTitle {
+  color: #a8e6ff; /* Nebulosa lila suave, etéreo pero legible */
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#pageSubTextTitle {
+  color: #e0b3ff; /* Gris azulado, tipo niebla cósmica */
+  font-size: 20px;
+}
+
+.highlightText {
+  color: #c7a4ff; /* Amarillo estrella tipo supernova */
+}
+
+
+.hemisphereSelectorContainer {
+  display: flex;
+  flex-direction: column;
+  transition: opacity 0.3s ease;
+}
+
+.tableWrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-start; */
+  margin-bottom: 2em;
+  /* align-items: center; */
+  transition: opacity 0.3s ease;
+}
+
+.hiddenToggler .hemisphereSelectorContainer {
+  opacity: 0;
+  pointer-events: none;
+}
+.hiddenToggler .tableWrapper {
+  opacity: 0;
+}
+.hiddenToggler #pageTitleContainer {
+  opacity: 0;
+  width: 0;
+  flex: 0;
+  overflow: hidden;
+}
+
+.hemisphereSelector {
+  padding: 10px;
+  font-size: 0.9em;
+  text-wrap: wrap;
+  overflow: hidden;
+  cursor: pointer;
+  text-decoration: none;
+  color: #04dbf1;
+  transition: .2s ease;
+}
+
+.hemisphereSelector:hover:not(.activeSelector) {
+  background-color: rgba(73, 54, 113, 0.5);
+}
+
+.activeSelector {
+  background-color: #8e4713
+}

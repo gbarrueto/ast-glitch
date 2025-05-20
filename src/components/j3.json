@@ -1,0 +1,269 @@
+[
+    {
+        "id": 39,
+        "object": "ngc 1027",
+        "frequency": 0.24,
+        "coords": [
+            "40.679",
+            "61.633"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "sh2-190",
+            "ic 1831",
+            "ldn 1361",
+            "ldn 1372",
+            "ldn 1373",
+            "ldn 1362",
+            "lbn 650",
+            "lbn 655",
+            "lbn 647",
+            "ldn 1369",
+            "ldn 1367",
+            "ldn 1363",
+            "ldn 1364",
+            "ldn 1360",
+            "ldn 1371",
+            "ldn 1365",
+            "ldn 1366",
+            "ldn 1359",
+            "lbn 648",
+            "lbn 656",
+            "lbn 646",
+            "lbn 657",
+            "ldn 1370",
+            "ldn 1368",
+            "lbn 658",
+            "ldn 1375"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa del Coraz\u00f3n"
+    },
+    {
+        "id": 45,
+        "object": "ngc 6979",
+        "frequency": 0.23,
+        "coords": [
+            "312.6167",
+            "32.0258 "
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ngc 6974",
+            "sh2-103"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Tri\u00e1ngulo de Pickering"
+    },
+    {
+        "id": 49,
+        "object": "ngc 6989",
+        "frequency": 0.22,
+        "coords": [
+            "313.493",
+            "45.24"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ic 5068",
+            "sh2-117",
+            "Barnard 355",
+            "ngc 6996",
+            "ldn 935",
+            "Barnard 353",
+            "lbn 354",
+            "lbn 348",
+            "lbn 349",
+            "ldn 933",
+            "lbn 359",
+            "lbn 371",
+            "lbn 356",
+            "lbn 378",
+            "lbn 385"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Norteamericana y pel\u00edcano"
+    },
+    {
+        "id": 50,
+        "object": "m 87",
+        "frequency": 0.22,
+        "coords": [
+            "187.705931",
+            "12.391123"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "m 88",
+            "ngc 4473"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Cadena de Markarian"
+    },
+    {
+        "id": 70,
+        "object": "ic 420",
+        "frequency": 0.17,
+        "coords": [
+            "83.058",
+            "-4.52"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ngc 1999",
+            "lbn 977",
+            "lbn 958"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de Ori\u00f3n"
+    },
+    {
+        "id": 72,
+        "object": "ngc 6546",
+        "frequency": 0.16,
+        "coords": [
+            "271.842",
+            "-23.297"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ic 1274",
+            "ic 4685",
+            "ngc 6544",
+            "ngc 6559"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de la Laguna"
+    },
+    {
+        "id": 78,
+        "object": "ic 417",
+        "frequency": 0.14,
+        "coords": [
+            "82.03",
+            "34.42"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "m 38"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa de la ara\u00f1a"
+    },
+    {
+        "id": 82,
+        "object": "ngc 6910",
+        "frequency": 0.13,
+        "coords": [
+            "305.783",
+            "40.775"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ic 4996",
+            "m 29"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Sadr region"
+    },
+    {
+        "id": 91,
+        "object": "ngc 7538",
+        "frequency": 0.11,
+        "coords": [
+            "348.405",
+            "61.5"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ngc 7510"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa de la Burbuja (campo medio-alto)"
+    },
+    {
+        "id": 92,
+        "object": "ic 2177",
+        "frequency": 0.11,
+        "coords": [
+            "106.104",
+            "-10.455"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de la gaviota"
+    },
+    {
+        "id": 94,
+        "object": "m 4",
+        "frequency": 0.1,
+        "coords": [
+            "245.89675",
+            "-26.52575"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Cumulo del cangrejo"
+    },
+    {
+        "id": 95,
+        "object": "Barnard 161",
+        "frequency": 0.1,
+        "coords": [
+            "325.1",
+            "57.82"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "sh2-131",
+            "Barnard 365",
+            "Barnard 163",
+            "Barnard 367"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Trompa de Elefante"
+    },
+    {
+        "id": 101,
+        "object": "ngc 2259",
+        "frequency": 0.09,
+        "coords": [
+            "99.6433",
+            "10.89"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Cumulo arbol de navidad"
+    },
+    {
+        "id": 102,
+        "object": "sh2-220",
+        "frequency": 0.09,
+        "coords": [
+            "59.414775",
+            "36.787483"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [
+            "ic 2005"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa California (campo medio-bajo)"
+    },
+    {
+        "id": 107,
+        "object": "lbn 943",
+        "frequency": 0.08,
+        "coords": [
+            "98.5",
+            "5.7"
+        ],
+        "fov": ">= 1.5 AND < 3.5 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Roseta"
+    }
+]
