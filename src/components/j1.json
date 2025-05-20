@@ -1,0 +1,763 @@
+[
+    {
+        "id": 0,
+        "object": "m 51",
+        "frequency": 2.52,
+        "coords": [
+            "202.469575",
+            "47.195258"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 5195",
+            "ic 4277",
+            "ic 4278",
+            "ic 4263"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Galaxia del remolino"
+    },
+    {
+        "id": 1,
+        "object": "m 16",
+        "frequency": 1.94,
+        "coords": [
+            "274.7",
+            "-13.807"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "sh2-49"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Pilares de la creaci\u00f3n"
+    },
+    {
+        "id": 2,
+        "object": "m 27",
+        "frequency": 1.87,
+        "coords": [
+            "299.901579",
+            "22.721042"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "pk 060-03.1"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa de Dumbell"
+    },
+    {
+        "id": 3,
+        "object": "m 81",
+        "frequency": 1.35,
+        "coords": [
+            "148.888221",
+            "69.065295"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "m 82"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Galaxia de Bode y Cigarro"
+    },
+    {
+        "id": 4,
+        "object": "m 101",
+        "frequency": 1.31,
+        "coords": [
+            "210.802429",
+            "54.34875"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 5461",
+            "ngc 5471",
+            "ngc 5455",
+            "ngc 5477",
+            "ngc 5451",
+            "ngc 5462",
+            "ngc 5453",
+            "ngc 5449",
+            "ngc 5450",
+            "ngc 5447"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Galaxia del Molinillo"
+    },
+    {
+        "id": 5,
+        "object": "m 33",
+        "frequency": 1.16,
+        "coords": [
+            "23.4621",
+            "30.659942"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 595",
+            "ngc 604"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Galaxia del Tri\u00e1ngulo"
+    },
+    {
+        "id": 6,
+        "object": "m 1",
+        "frequency": 1.1,
+        "coords": [
+            "83.63308",
+            "22.0145"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "sh2-244"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa del cangrejo"
+    },
+    {
+        "id": 7,
+        "object": "m 13",
+        "frequency": 1.09,
+        "coords": [
+            "250.423475",
+            "36.461319"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ic 4617",
+            "ngc 6207"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Gran c\u00famulo de H\u00e9rcules"
+    },
+    {
+        "id": 8,
+        "object": "m 42",
+        "frequency": 1.05,
+        "coords": [
+            "83.8221",
+            "-5.3911"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "mairan's nebula"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de Ori\u00f3n"
+    },
+    {
+        "id": 9,
+        "object": "m 65",
+        "frequency": 0.97,
+        "coords": [
+            "169.733154",
+            "13.092211"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 3628"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Tr\u00edo de Leo"
+    },
+    {
+        "id": 10,
+        "object": "ngc 7635",
+        "frequency": 0.94,
+        "coords": [
+            "350.2012",
+            "61.2017"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "sh2-162"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa de la Burbuja (campo bajo)"
+    },
+    {
+        "id": 11,
+        "object": "m 63",
+        "frequency": 0.82,
+        "coords": [
+            "198.955537",
+            "42.029289"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia del Girasol"
+    },
+    {
+        "id": 12,
+        "object": "ngc 6888",
+        "frequency": 0.82,
+        "coords": [
+            "303.029",
+            "38.355"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Creciente"
+    },
+    {
+        "id": 14,
+        "object": "m 20",
+        "frequency": 0.77,
+        "coords": [
+            "270.675",
+            "-22.972"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 6526"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de la Trifida"
+    },
+    {
+        "id": 15,
+        "object": "m 57",
+        "frequency": 0.72,
+        "coords": [
+            "283.396163",
+            "33.029175"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ic 1296"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa del Anillo"
+    },
+    {
+        "id": 16,
+        "object": "m 17",
+        "frequency": 0.6,
+        "coords": [
+            "275.196",
+            "-16.172"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa Omega"
+    },
+    {
+        "id": 19,
+        "object": "m 104",
+        "frequency": 0.55,
+        "coords": [
+            "189.997633",
+            "-11.623054"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Galaxia Sombrero"
+    },
+    {
+        "id": 20,
+        "object": "m 106",
+        "frequency": 0.54,
+        "coords": [
+            "184.740083",
+            "47.303719"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 4248"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Galaxia M106"
+    },
+    {
+        "id": 21,
+        "object": "ic 5146",
+        "frequency": 0.44,
+        "coords": [
+            "328.35",
+            "47.267"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Cocoon"
+    },
+    {
+        "id": 22,
+        "object": "m 8",
+        "frequency": 0.42,
+        "coords": [
+            "270.904 ",
+            "-24.378  "
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 6530"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de la Laguna"
+    },
+    {
+        "id": 23,
+        "object": "ngc 7293",
+        "frequency": 0.42,
+        "coords": [
+            "337.410588",
+            "-20.837122"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa H\u00e9lice"
+    },
+    {
+        "id": 24,
+        "object": "ngc 7023",
+        "frequency": 0.4,
+        "coords": [
+            "315.4037",
+            "68.1633"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Iris"
+    },
+    {
+        "id": 25,
+        "object": "m 97",
+        "frequency": 0.4,
+        "coords": [
+            "168.698754",
+            "55.019089"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa de la Lechuza"
+    },
+    {
+        "id": 26,
+        "object": "m 64",
+        "frequency": 0.4,
+        "coords": [
+            "194.182067",
+            "21.682658"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia Ojo Negro"
+    },
+    {
+        "id": 29,
+        "object": "m 76",
+        "frequency": 0.34,
+        "coords": [
+            "25.583117",
+            "51.575319"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Peque\u00f1a nebulosa de Dumbell"
+    },
+    {
+        "id": 31,
+        "object": "ngc 281",
+        "frequency": 0.32,
+        "coords": [
+            "13.1046",
+            "56.565"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ic 1590"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Pacman"
+    },
+    {
+        "id": 32,
+        "object": "m 83",
+        "frequency": 0.31,
+        "coords": [
+            "204.253829",
+            "-29.865761"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Galaxia del Molinillo Austral"
+    },
+    {
+        "id": 33,
+        "object": "ngc 6960",
+        "frequency": 0.31,
+        "coords": [
+            "311.4083",
+            "30.7083"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Filamentosa"
+    },
+    {
+        "id": 34,
+        "object": "m 3",
+        "frequency": 0.29,
+        "coords": [
+            "205.54842",
+            "28.37728"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "M3"
+    },
+    {
+        "id": 37,
+        "object": "ngc 253",
+        "frequency": 0.26,
+        "coords": [
+            "11.888058",
+            "-25.2888"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Galaxia del Escultor"
+    },
+    {
+        "id": 38,
+        "object": "ic 1805",
+        "frequency": 0.25,
+        "coords": [
+            "38.175",
+            "61.45"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa del Coraz\u00f3n"
+    },
+    {
+        "id": 43,
+        "object": "ic 434",
+        "frequency": 0.24,
+        "coords": [
+            "85.2",
+            "-2.5"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 2024",
+            "ngc 2023",
+            "horsehead nebula"
+        ],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa cabeza de caballo"
+    },
+    {
+        "id": 44,
+        "object": "ngc 2359",
+        "frequency": 0.24,
+        "coords": [
+            "109.625",
+            "-13.23"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa Casco de Thor"
+    },
+    {
+        "id": 46,
+        "object": "ngc 6946",
+        "frequency": 0.23,
+        "coords": [
+            "308.71805",
+            "60.153678"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia de los fuegos artificiales"
+    },
+    {
+        "id": 47,
+        "object": "ngc 7335",
+        "frequency": 0.23,
+        "coords": [
+            "339.267092",
+            "34.415919"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 7331",
+            "ngc 7337",
+            "ngc 7319",
+            "ngc 7318"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Quinteto de Stephan"
+    },
+    {
+        "id": 52,
+        "object": "ngc 7380",
+        "frequency": 0.22,
+        "coords": [
+            "341.837",
+            "58.132"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa del Mago"
+    },
+    {
+        "id": 53,
+        "object": "ic 5070",
+        "frequency": 0.22,
+        "coords": [
+            "312.75",
+            "44.37"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Norteamericana y pel\u00edcano"
+    },
+    {
+        "id": 54,
+        "object": "m 31",
+        "frequency": 0.22,
+        "coords": [
+            "10.684708",
+            "41.26875"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia de Andr\u00f3meda (campo bajo)"
+    },
+    {
+        "id": 55,
+        "object": "ngc 1975",
+        "frequency": 0.22,
+        "coords": [
+            "83.8254",
+            "-4.6847"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Nebulosa de Ori\u00f3n"
+    },
+    {
+        "id": 58,
+        "object": "ngc 1097",
+        "frequency": 0.21,
+        "coords": [
+            "41.579413",
+            "-30.274911"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "NGC1097"
+    },
+    {
+        "id": 60,
+        "object": "m 78",
+        "frequency": 0.2,
+        "coords": [
+            "86.6948",
+            "0.014"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Gaspar\u00edn"
+    },
+    {
+        "id": 63,
+        "object": "m 74",
+        "frequency": 0.19,
+        "coords": [
+            "24.17405",
+            "15.783461"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia del abanico"
+    },
+    {
+        "id": 64,
+        "object": "ngc 4565",
+        "frequency": 0.19,
+        "coords": [
+            "188.922746",
+            "26.285497"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 4565 a"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Galaxia de la Aguja"
+    },
+    {
+        "id": 65,
+        "object": "m 94",
+        "frequency": 0.19,
+        "coords": [
+            "192.72145",
+            "41.120153"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia Ojo de Cocodrilo"
+    },
+    {
+        "id": 66,
+        "object": "ngc 891",
+        "frequency": 0.19,
+        "coords": [
+            "35.637112",
+            "42.348319"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia Astilla de plata"
+    },
+    {
+        "id": 68,
+        "object": "ngc 2264",
+        "frequency": 0.18,
+        "coords": [
+            "100.242",
+            "9.895"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Cumulo arbol de navidad"
+    },
+    {
+        "id": 69,
+        "object": "ngc 2244",
+        "frequency": 0.18,
+        "coords": [
+            "97.979",
+            "4.942"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [
+            "ngc 2244 satellite cluster"
+        ],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Roseta"
+    },
+    {
+        "id": 71,
+        "object": "ic 405",
+        "frequency": 0.17,
+        "coords": [
+            "79.35",
+            "34.38"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa de la estrella llameante"
+    },
+    {
+        "id": 76,
+        "object": "m 92",
+        "frequency": 0.15,
+        "coords": [
+            "259.28079",
+            "43.13594"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "M92"
+    },
+    {
+        "id": 77,
+        "object": "ngc 4631",
+        "frequency": 0.15,
+        "coords": [
+            "190.533371",
+            "32.541511"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia de la ballena"
+    },
+    {
+        "id": 79,
+        "object": "ngc 5128",
+        "frequency": 0.14,
+        "coords": [
+            "201.365063",
+            "-43.019113"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "S",
+        "repr_name": "Galaxia Centauro A"
+    },
+    {
+        "id": 80,
+        "object": "m 109",
+        "frequency": 0.14,
+        "coords": [
+            "179.399933",
+            "53.374519"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Galaxia de la aspiradora"
+    },
+    {
+        "id": 81,
+        "object": "m 15",
+        "frequency": 0.14,
+        "coords": [
+            "322.49304",
+            "12.167"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Cumulo de pegaso"
+    },
+    {
+        "id": 109,
+        "object": "monkey head nebula",
+        "frequency": 0.15,
+        "coords": [
+            "92.43",
+            "20.5"
+        ],
+        "fov": "< 0.7 deg",
+        "neighbours": [],
+        "hemisphere": "N",
+        "repr_name": "Nebulosa Cabeza de mono"
+    }
+]

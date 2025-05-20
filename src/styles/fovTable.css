@@ -1,0 +1,79 @@
+/* FovTable.css */
+
+#topTitleContainer {
+  width: 85%;
+  align-self: end;
+  text-align: center;
+}
+
+#fovTopContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  width: 100%;
+}
+
+#fovImage {
+  width: 15%;
+  object-fit: fill;
+  height: 75%;
+  align-self: center;
+  transform: scale(1.2);
+  margin-top: 2.5em;
+}
+
+#tablesWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 1;
+}
+
+.tableContainer {
+  width: 100%;
+  text-align: center;
+}
+
+.tableContainer p {
+  color: #b0bec5;
+  font-size: 14px;
+  font-weight: 800;
+  margin: 0.5em 0;
+}
+
+.objectsTable {
+  color: white;
+  width: 100%;
+  border-spacing: 0;
+  text-align: left;
+}
+
+.objectsTable thead {
+  justify-content: space-between;
+}
+
+.objectsTable thead th {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 16px;
+  border-bottom: 2px solid #6b1e9c;
+}
+
+.objectsTable thead th:last-child {
+  text-align: end;
+}
+
+.objectsTable tbody td {
+  padding: 6px 0;
+  color: #e0e0e0;
+  overflow: hidden;
+}
+
+.objectsTable tbody td:first-child {
+  color: #ff6ec7;
+  font-weight: 500;
+}
+
+.objectsTable tbody td:last-child {
+  text-align: end;
+}
